@@ -39,3 +39,45 @@ const techStack = {
   devops: ["Docker", "Kubernetes", "AWS", "GitHub Actions"],
   security: ["OWASP Top 10", "CVE Management", "Security Headers", "CSP"]
 };
+📈 Notable Projects
+🔒 SecureAuth Framework
+Enterprise-grade authentication system implementing multi-factor authentication, biometric verification, and behavioral analysis for fraud detection.
+
+🛡️ Threat Intelligence Platform
+Real-time security monitoring dashboard aggregating threat feeds, vulnerability data, and security posture assessment.
+
+💼 Security Compliance Automation
+Automated security scanning pipeline integrating SAST/DAST tools into CI/CD with compliance reporting for regulatory standards.
+
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NerberCastro&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerberCastro&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </div>
+🎯 Professional Focus
+Current Research Interests
+Zero Trust Architecture implementation strategies
+
+AI/ML in cybersecurity threat detection and prevention
+
+Blockchain security and smart contract auditing
+
+Cloud-native security in multi-cloud environments
+
+Security Philosophy
+"Security isn't a feature—it's a fundamental requirement. Every line of code should be written with security implications in mind, and every system designed with defense-in-depth principles."
+
+📫 Let's Connect
+<div align="center"> <a href="https://linkedin.com/in/nerbercastro"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a> <a href="https://twitter.com/nerbercastro"><img src="https://img.shields.io/badge/Twitter-Security%20Updates-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" /></a> <a href="mailto:nerber.castro@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" /></a> <a href="https://medium.com/@nerbercastro"><img src="https://img.shields.io/badge/Blog-Technical%20Writing-green?style=for-the-badge&logo=medium" alt="Blog" /></a> </div>
+🔐 Security Advisories & Contributions
+I actively contribute to:
+
+Open-source security projects
+
+CVE discovery and reporting
+
+Security research publications
+
+Community security awareness
+
+<div align="center">
+⚡ "Building secure digital futures, one commit at a time."
+
+<img src="https://komarev.com/ghpvc/?username=NerberCastro&color=blueviolet&style=flat-square" alt="Profile Views" />
