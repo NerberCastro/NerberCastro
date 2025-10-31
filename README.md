@@ -1,83 +1,79 @@
-👋 Hi, I'm Nerber Castro
-**Cybersecurity Specialist & Full-Stack Developer**
+# Nerber Castro | Security-Focused Full Stack Developer
 
-Security-First Software Engineer with expertise in building robust web applications while maintaining stringent security protocols. Passionate about creating secure, scalable digital solutions that withstand modern cyber threats.
+### Building Secure Web Applications with Defense-in-Depth Architecture
 
-## 🔥 Core Competencies
+## 🛡️ About Me
 
-### 🛡️ Cybersecurity
-- **Offensive Security**: Penetration testing, vulnerability assessment, ethical hacking
-- **Defensive Strategies**: Security architecture, threat modeling, incident response
-- **Security Engineering**: Secure SDLC implementation, DevSecOps practices
-- **Compliance & Standards**: OWASP, NIST, ISO 27001 frameworks
+I'm a passionate developer specializing in the intersection of **web application development** and **cybersecurity**. My expertise lies in creating robust, scalable web applications while implementing proactive security measures throughout the software development lifecycle.
 
-### 💻 Full-Stack Development
-- **Frontend**: React, Vue.js, TypeScript, Modern CSS frameworks
-- **Backend**: Node.js, Python, REST APIs, GraphQL
-- **Database**: PostgreSQL, MongoDB, Redis, Security-hardened configurations
-- **Infrastructure**: Docker, Kubernetes, AWS, Azure security configurations
+**Core Philosophy:** Security should be baked into the development process, not bolted on as an afterthought.
 
-## 🚀 Technical Arsenal
+## 🔧 Technical Stack
 
-### Security Tools & Technologies
-**Security Assessment**  
-Burp Suite • Metasploit • Nmap • Wireshark • SQLMap
+### **Web Development**
+- **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3, Tailwind
+- **Backend:** Node.js, Express, Python, Django, REST APIs, GraphQL
+- **Databases:** PostgreSQL, MongoDB, MySQL, Redis
+- **DevOps & Cloud:** Docker, AWS, CI/CD, Git, Linux, Nginx
 
-**Code Security**  
-SAST/DAST tools • Snyk • SonarQube • OWASP ZAP
+### **Cybersecurity Focus**
+- **AppSec:** OWASP Top 10, Secure SDLC, Threat Modeling, SAST/DAST
+- **Network Security:** TCP/IP, Firewalls, IDS/IPS, VPNs
+- **Penetration Testing:** Web App Testing, Vulnerability Assessment
+- **Tools:** Burp Suite, Wireshark, Metasploit, Nmap, Kali Linux
 
-**Cryptography & PKI**  
-OpenSSL • JWT • OAuth 2.0 • Cryptographic implementations
+## 🚀 Featured Projects
 
-### Development Stack
-```javascript
-const techStack = {
-  languages: ["JavaScript", "TypeScript", "Python", "Java"],
-  frontend: ["React", "Vue", "Next.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express", "FastAPI", "Spring Boot"],
-  database: ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"],
-  devops: ["Docker", "Kubernetes", "AWS", "GitHub Actions"],
-  security: ["OWASP Top 10", "CVE Management", "Security Headers", "CSP"]
-};
-📈 Notable Projects
-🔒 SecureAuth Framework
-Enterprise-grade authentication system implementing multi-factor authentication, biometric verification, and behavioral analysis for fraud detection.
+### [**SecureAuth API**](https://github.com/NerberCastro/secureauth-api)
+Enterprise-grade authentication microservice with advanced security features
+- **Tech:** Node.js, TypeScript, JWT, Redis, PostgreSQL
+- **Security:** Rate limiting, brute force protection, secure headers, password hashing
 
-🛡️ Threat Intelligence Platform
-Real-time security monitoring dashboard aggregating threat feeds, vulnerability data, and security posture assessment.
+### [**VulnScan CLI**](https://github.com/NerberCastro/vulnscan-cli)
+Command-line vulnerability scanner for web applications
+- **Tech:** Python, AsyncIO, Requests
+- **Features:** Automated security scanning, report generation, CI/CD integration
 
-💼 Security Compliance Automation
-Automated security scanning pipeline integrating SAST/DAST tools into CI/CD with compliance reporting for regulatory standards.
+### [**ThreatModel Pro**](https://github.com/NerberCastro/threatmodel-pro)
+Web-based threat modeling tool for development teams
+- **Tech:** React, Node.js, MongoDB
+- **Features:** STRIDE methodology, risk assessment, team collaboration
 
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NerberCastro&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NerberCastro&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </div>
-🎯 Professional Focus
-Current Research Interests
-Zero Trust Architecture implementation strategies
-
-AI/ML in cybersecurity threat detection and prevention
-
-Blockchain security and smart contract auditing
-
-Cloud-native security in multi-cloud environments
-
-Security Philosophy
-"Security isn't a feature—it's a fundamental requirement. Every line of code should be written with security implications in mind, and every system designed with defense-in-depth principles."
-
-📫 Let's Connect
-<div align="center"> <a href="https://linkedin.com/in/nerbercastro"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a> <a href="https://twitter.com/nerbercastro"><img src="https://img.shields.io/badge/Twitter-Security%20Updates-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" /></a> <a href="mailto:nerber.castro@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" /></a> <a href="https://medium.com/@nerbercastro"><img src="https://img.shields.io/badge/Blog-Technical%20Writing-green?style=for-the-badge&logo=medium" alt="Blog" /></a> </div>
-🔐 Security Advisories & Contributions
-I actively contribute to:
-
-Open-source security projects
-
-CVE discovery and reporting
-
-Security research publications
-
-Community security awareness
+## 📊 GitHub Analytics
 
 <div align="center">
-⚡ "Building secure digital futures, one commit at a time."
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NerberCastro&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NerberCastro&layout=compact&theme=radical&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=NerberCastro&theme=radical&hide_border=true)
 
-<img src="https://komarev.com/ghpvc/?username=NerberCastro&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
+
+## 🎯 Current Focus
+
+- **Advanced Web Security:** Implementing CSP, HSTS, and other security headers
+- **Cloud Security:** AWS security best practices and architecture
+- **DevSecOps:** Integrating security into CI/CD pipelines
+- **Blockchain Security:** Smart contract auditing and secure DApp development
+
+## 📫 Let's Connect
+
+I'm always interested in discussing cybersecurity, web development, and potential collaborations:
+
+- **LinkedIn:** [Nerber Castro](https://linkedin.com/in/nerbercastro)
+- **Email:** [nerber.castro@domain.com](mailto:nerber.castro@domain.com)
+- **Portfolio:** [Coming Soon]()
+- **Blog:** [Security & Development Insights]()
+
+## 📜 Certifications & Learning
+
+- **Currently Pursuing:** OSCP, eJPT
+- **Areas of Study:** Cloud Security, Ethical Hacking, Secure Code Review
+
+---
+
+<div align="center">
+  
+"*The only truly secure system is one that is powered off, cast in a block of concrete, and sealed in a lead-lined room with armed guards.*" - Gene Spafford
+
+**But we try our best to build the next best thing.**
